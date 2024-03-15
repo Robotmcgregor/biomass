@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Schema id="schema0" name="schema0">
+      <SimpleField name="Description" type="string"/>
+      <SimpleField name="pdfmaps_photos" type="string">
+        <displayName>Photos</displayName>
+      </SimpleField>
+    </Schema>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>Layer</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+      <Placemark>
+        <name>Placemark 1</name>
+        <TimeStamp>
+          <when>2022-03-29T12:20:05+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <Point>
+          <coordinates>
+            58.4649112312953,55.0229941039699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>Layer</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+      <Placemark>
+        <name>Placemark 1</name>
+        <TimeStamp>
+          <when>2022-05-24T09:51:44+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <Point>
+          <coordinates>
+            130.3573592272,-16.1085878488949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 2</name>
+        <TimeStamp>
+          <when>2022-05-25T09:01:03+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <Point>
+          <coordinates>
+            130.348859870384,-16.1075263690129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 3</name>
+        <TimeStamp>
+          <when>2022-05-25T14:24:05+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <Point>
+          <coordinates>
+            130.301051242475,-15.9996913344594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 5</name>
+        <TimeStamp>
+          <when>2022-05-25T15:34:40+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <Point>
+          <coordinates>
+            130.255077285273,-15.9004624715713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>Layer</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+      <Placemark>
+        <name>Placemark 1</name>
+        <TimeStamp>
+          <when>2022-05-28T09:24:40+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <Point>
+          <coordinates>
+            129.066721720812,-15.8772745524094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 2</name>
+        <TimeStamp>
+          <when>2022-05-28T09:49:01+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <Point>
+          <coordinates>
+            129.109948371958,-15.8334700347398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <styleUrl>#style1</styleUrl>
+      <name>Layer</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+    </Folder>
+    <Folder>
+      <styleUrl>#style1</styleUrl>
+      <name>Layer</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+      <Placemark>
+        <name>site 4</name>
+        <TimeStamp>
+          <when>2023-09-07T15:26:07+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <Point>
+          <coordinates>
+            131.037765548977,-12.6457678621771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site2</name>
+        <TimeStamp>
+          <when>2023-09-07T13:56:12+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <Point>
+          <coordinates>
+            130.984186235665,-12.5257788835164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site3</name>
+        <TimeStamp>
+          <when>2023-09-07T15:16:10+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style2</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">tettrodonta open woodland, fire previos year.</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            131.038083797959,-12.637264803755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style0">
+      <IconStyle>
+        <color>800095ff</color>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+      <LineStyle>
+        <color>ff0095ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>800095ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style1">
+      <IconStyle>
+        <color>802f80ff</color>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+      <LineStyle>
+        <color>ff2f80ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>802f80ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style2">
+      <IconStyle>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Schema id="schema0" name="schema0">
+      <SimpleField name="Description" type="string"/>
+      <SimpleField name="pdfmaps_photos" type="string">
+        <displayName>Photos</displayName>
+      </SimpleField>
+    </Schema>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>Layer</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+      <Placemark>
+        <name>possible1</name>
+        <TimeStamp>
+          <when>2023-09-10T07:42:19+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            131.206772381745,-12.5961268179993,46.6656913757324
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site 9</name>
+        <TimeStamp>
+          <when>2023-09-09T10:00:20+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            131.018051319167,-13.0302536543563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site7</name>
+        <TimeStamp>
+          <when>2023-09-09T07:49:18+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            131.074743539018,-12.6590163397457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site8</name>
+        <TimeStamp>
+          <when>2023-09-09T08:20:40+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            131.074758123701,-12.6589969301897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site8</name>
+        <TimeStamp>
+          <when>2023-09-09T08:45:02+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            131.075304197937,-12.6609972334548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style0">
+      <IconStyle>
+        <color>802f80ff</color>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+      <LineStyle>
+        <color>ff2f80ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>802f80ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style1">
+      <IconStyle>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

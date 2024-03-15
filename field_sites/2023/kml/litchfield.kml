@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Schema id="schema0" name="schema0">
+      <SimpleField name="Description" type="string"/>
+      <SimpleField name="pdfmaps_photos" type="string">
+        <displayName>Photos</displayName>
+      </SimpleField>
+    </Schema>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>Layer</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+      <Placemark>
+        <name>site10</name>
+        <TimeStamp>
+          <when>2023-09-09T10:53:50+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            130.926393860967,-13.0351956463269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site11</name>
+        <TimeStamp>
+          <when>2023-09-09T11:45:35+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            130.926386650343,-13.0351888780835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site11</name>
+        <TimeStamp>
+          <when>2023-09-09T11:46:07+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            130.849509775015,-13.0687448783216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site12</name>
+        <TimeStamp>
+          <when>2023-09-09T12:32:34+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            130.849509775015,-13.0687448783216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site13</name>
+        <TimeStamp>
+          <when>2023-09-09T13:05:09+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            130.790746810684,-13.1427320177468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>site13 actual</name>
+        <TimeStamp>
+          <when>2023-09-09T13:09:00+09:30</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            130.791078648976,-13.1429509130288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style0">
+      <IconStyle>
+        <color>802f80ff</color>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+      <LineStyle>
+        <color>ff2f80ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>802f80ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style1">
+      <IconStyle>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>
