@@ -87,6 +87,93 @@ Tensor Flow ANN: tensorflow_ann_for_seasonal_selections_v1.ipynb (http://localh
 
 -------------------------------------------------------------------------------------------------------------
 
+## Collation Pipeline Notes
+
+Latest biomass data: U:\biomass\collated_agb\20230927\slats_tern_biomass.csv
+
+| Script | Description | Status | Output location | Scratch outputs | Issue | Error corrected | Merged output rows |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| step1_initiate_biomass_zonal_stats_collation_pipeline | Workflow and final merge | Merge not complete| | | | | 
+| step2_merge_tile_density_height_zonal_stats.py | Separate seasons for density and height, rename dry season columns and merge data set to one complete data set | Complete | | U:\biomass\scratch\density_height\ccw_fdc_h99_hcv_hmc_hsd_n17_wdc_wfp_clean.csv	| | | 158|
+| step4_merge_tile_zonal_stats | Separate seasons for fc and sr , rename dry season columns and merge data set to one complete data set | Complete  |	| U:\biomass\scratch\sr_fc\dbg_dbi_dbi_mask_dp0_dp1_dp1_mask_clean.csv	| DBI zonal stats exporting incorrect file name	| No| 157 |
+| step3_calculate_indices	| Apply vegetation indices to dbg and dbi values | Complete  | | X:\PGB\RSU\biomass\scratch\veg_ind	 | | 142 |
+| step4_merge_meteorological_data_agb_zonal_stats.py | | Complete |  | X:\PGB\RSU\biomass\scratch\met | | | |
+| step5_merge_meteorological_si	| Merging dataframes not complete	| Complete	| U:\biomass\met_zonal_stats_per_site\	| X:\PGB\RSU\biomass\scratch\met |||	
+| step6_merge_tile_seasonal_fire_zonal_stats | Need to concat dka, dkn and dkh together before calculating fire si | Complete | U:\scratch\rob\pipelines\outputs\ and (dir)\mosaic_concat\fire_scar_zonal_stats\	| X:\PGB\RSU\biomass\scratch\fire ||||	
+
+----------------------------------------------------------------------------------------
+
+## QLD silo data
+
+rerunning:
+
+| Variable | SLATS | SLATS & TERN |
+|:-:|:-:|:-:|
+|daily_rain | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1825 | Running |
+|rh_tmax | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1823 | Running | 
+|rh_tmin|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1822|Running|
+|et_actual|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1821|Running|
+|min_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1820|Running|
+|max_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1824|Running|
+	
+
+* rh_tmax - final data
+* rh_tmin - final data
+* daily_rain - final data
+* et_actual - final data
+* min_temp - final data
+* max_temp - final data
+
+## Biomass data errors:
+| Site | Issue | Solution | Completed | 
+|:-:|:-:|:-:|:-:|
+|buf01|Incorrect date 2021 → 2012rerun all zonal stats SILO and Mosaic and 106_069|Done|
+
+
+## Zonal stats code names
+
+|Data | Type | Code Name |
+|:-:|:-:|:-:|
+| Burn scar mapping | QLD | dkk | 
+| Burn scar mapping | NAFI | dkh | 
+| Burn scar mapping | NAFI | dkn |
+
+## Fractional Cover
+| Data | Type | Code Names |
+|:-:|:-:|:-:|
+| Fractional Cover | Annual seasonal composite with fire mask applied | dp1fm | 
+| Fractional Cover | Dry seasonal composite with fire mask applied | dp1fm_dry |
+| Fractional Cover | Annual seasonal composite | dp1 |
+| Fractional Cover | Dry seasonal composite | dp1_dry | 
+| Fractional Cover | Single date with fire mask applied| dp0fm | 
+| Fractional Cover | Single date | dp0 |
+
+## Surface Reflectance
+
+| Data | Typ e| Code Names |
+|:-:|:-:|:-:|
+| Surface Reflectance| Annual seasonal composite with fire mask applied| dbifm |
+| Surface Reflectance | Dry seasonal composite with fire mask applied | dbifm_dry |
+| Surface Reflectance | Annual seasonal composite | dbi |
+| Surface Reflectance | Dry seasonal composite | dbi_dry |
+
+--------------------------------------------------------------------------------------------
+slats only: "U:\biomass\agb\20231102\slats_tern_biomass.csv"
+
+
+
+
+slats and tern: "U:\biomass\collated_agb\20231103\slats_tern_biomass.csv"
+
+
+
+
+
+
+QLD silo data
+
+-------------------------------------------------------------------------------------------------------------
+
 ## To do list
 
 Locate and git: 
