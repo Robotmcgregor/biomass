@@ -57,7 +57,10 @@ Outputs:
 "U:\biomass\collated_agb\20231103\slats_tern_biomass.csv" - qld climate
 
 this is the same file: "C:\Users\robot\projects\cdu\biomass\collated_agb\20231103\slats_tern_biomass.csv" works out at 189 items and site is "{site}_{year}" and site_name is "{site}"
+
 ------------------------------------------------------------------------------------------
+
+Processing Status
 
 height: Height data is on the 0565 HD and in the biomass directory.
 
@@ -71,6 +74,7 @@ Add height from model to site data - try using different allometry.
 
 Local machine: ntg_repo/carbon/biomass/nb/field_data/agb_with_height/biomass_from_basal_and_height.ipynb
 
+
 ----------------------------------------------------------------------------------------
 
 ##### Collate meteorological data - seasonal and si
@@ -81,13 +85,39 @@ PGB-BAS21: biomass/nb/seasonal_index/merge_meteorological_var_seasonal_si.ipynb
 
 ## Create Height data
 
-PGB-BAS21: http://localhost:8891/notebooks/clearing/lsat/landsat_workflow/height_landsat_processing_workflow_env_ana_base.ipynb
+PGB-BAS21: [http://localhost:8891/notebooks/clearing/lsat/landsat_workflow/height_landsat_processing_workflow_biomass_env_ana_base.ipynb](http://localhost:8891/notebooks/clearing/lsat/landsat_workflow/height_landsat_processing_workflow_biomass_env_ana_base.ipynb)
+
+check that the new location works?
+[http://localhost:8888/notebooks/biomass/height_landsat_processing_workflow_biomass_env_ana_base.ipynb](http://localhost:8888/notebooks/biomass/height_landsat_processing_workflow_biomass_env_ana_base.ipynb)
 
 ### Create Density data
 
 #### PGB-BAS21:
 
 ##### Extract zonal Statistics
+
+## Zonal Stats Processing Status
+|Tile | SR & FC | Density & Height | Met | Seasonal & SI | Fire | Number of Sites |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 101_072 |  |  | ||| 10 |
+|101_073 | | | | | | 9 | 
+|101_074| | | | | | 2|
+|102_071| | | | | | 13| 
+|102_072| | | | | |  13| 
+|102_073 | | | | | | 8| 
+|103_070| | | | | | 12|
+|103_071| | | | | | 3| 
+|103_072| | | | | | 11| 
+|104_069| | | | | |  2|
+|104_070| | | | | | 10|
+|104_071| | | | | | 5|
+|105_069| | | | | | 15| 
+|105_070| | ||||10|
+|105_071| | ||||9|
+|105_072| | ||||17|
+|105_073| | ||||1|
+|106_069| |||||29|
+|106_071||||||16|
 
 Extract zonal statistics for Landsat tile SR and FC data, and create and extract fire mask data.
 
