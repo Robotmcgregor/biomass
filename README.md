@@ -79,13 +79,25 @@ C:\Users\rmcgr\ntg_repo\carbon\biomass\nb\ml
 
 
 
-Random Forrest Regression: sklearn_random_forest_regression_for_seasonal_selections.ipynb
-Adda Boost Regression: sklearn_adda_boost_regression_for_seasonal_selections.ipynb
-Gradient Boosting Regression: sklearn_gradient_boosting_regression_for_seasonal_selections.ipynb
-SVR Regression: sklearn_svr_regression_for_nt_mosaic_2023.ipynb
-Tensor Flow ANN: tensorflow_ann_for_seasonal_selections_v1.ipynb 
+Random Forrest Regression: sklearn_random_forest_regression_for_seasonal_selections.ipynb (http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/ml/clean_models/sklearn_random_forest_regression_for_seasonal_selections.ipynb)
+Adda Boost Regression: sklearn_adda_boost_regression_for_seasonal_selections.ipynb (http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/ml/clean_models/sklearn_adda_boost_regression_for_seasonal_selections.ipynb)
+Gradient Boosting Regression: sklearn_gradient_boosting_regression_for_seasonal_selections.ipynb (http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/ml/clean_models/sklearn_gradient_boosting_regression_for_seasonal_selections.ipynb)
+SVR Regression: sklearn_svr_regression_for_nt_mosaic_2023.ipynb (http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/ml/sklearn_svr_regression_for_nt_mosaic_2023.ipynb)
+Tensor Flow ANN: tensorflow_ann_for_seasonal_selections_v1.ipynb (http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/ml/tensorflow_ann_for_seasonal_selections_v1.ipynb)
 
+-------------------------------------------------------------------------------------------------------------
 
+## To do list
+
+Locate and git: 
+
+* Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb
+
+* Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v2.ipynb
+
+* Local machine: ntg_repo/carbon/biomass/nb/report/meteorological_trends_for_loop.ipynb
+
+* Local machine: ntg_repo/carbon/biomass/nb/field_data/agb_with_height/biomass_from_basal_and_height.ipynb
 
 
 Met zonal stats per site: need to be redone.
