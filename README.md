@@ -68,12 +68,12 @@ rerunning:
 
 | Variable | SLATS | SLATS & TERN | DATE |
 |:-:|:-:|:-:|:-:|
-|daily_rain | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1825 | Running | 20240317 |
-|rh_tmax | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1823 | Running | 20240317 |
-|rh_tmin|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1822| Running | 20240317 |
-|et_actual|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1821| Running| 20240317 |
-|min_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1820| Running| 20240317 |
-|max_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1824| Running| 20240317 |
+|daily_rain | "U:\biomass\zonal_stats_raw\met\rmcgr_meteorological_20240317_1624" | Complete | 20240317 |
+|rh_tmax | "U:\biomass\zonal_stats_raw\met\rmcgr_meteorological_20240317_1625" | Complete | 20240317 |
+|rh_tmin|"U:\biomass\zonal_stats_raw\met\rmcgr_meteorological_20240317_1851"| Complete | 20240317 |
+|et_actual|"U:\biomass\zonal_stats_raw\met\rmcgr_meteorological_20240317_1622"| Complete | 20240317 |
+|min_temp|"U:\biomass\zonal_stats_raw\met\rmcgr_meteorological_20240317_1853"| Complete | 20240317 |
+|max_temp|"U:\biomass\zonal_stats_raw\met\rmcgr_meteorological_20240317_1855"| Complete| 20240317 |
 	
 
 * rh_tmax - final data
