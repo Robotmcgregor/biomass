@@ -70,10 +70,10 @@ rerunning:
 |:-:|:-:|:-:|:-:|
 |daily_rain | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1825 | Running | 20240317 |
 |rh_tmax | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1823 | Running | 20240317 |
-|rh_tmin|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1822|| |
-|et_actual|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1821|Running| 20240317 |
-|min_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1820|| |
-|max_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1824|| |
+|rh_tmin|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1822| Running | 20240317 |
+|et_actual|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1821| Running| 20240317 |
+|min_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1820| Running| 20240317 |
+|max_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1824| Running| 20240317 |
 	
 
 * rh_tmax - final data
@@ -98,7 +98,7 @@ Local machine: ntg_repo/carbon/biomass/nb/field_data/agb_with_height/biomass_fro
 
 ##### Collate meteorological data - seasonal and si - check this as it runs out of memory.
 
-PGB-BAS21: biomass/nb/seasonal_index/merge_meteorological_var_seasonal_si.ipynb
+PGB-BAS21: biomass/nb/seasonal_index/merge_meteorological_var_seasonal_si.ipynb - located
 
 Note: collation pipeline pulls this data not collated: U:\biomass\raw_zonal_stats\met\collation\slats_tern
 
@@ -129,10 +129,10 @@ check that the new location works?
 |103_070| | || | | | |12|
 |103_071| | | || | | 3| 
 |103_072| | | || | | 11| 
-|104_069| | | | || |  2|
-|104_070| | | | || | 10|
-|104_071| | | | | || 5|
-|105_069| | | | | || 15| 
+|104_069| Running | | | || |  2|
+|104_070| Running | | | || | 10|
+|104_071| Running | | | | || 5|
+|105_069| Running | | | | || 15| 
 |105_070| | Height | ||||10|
 |105_071| | |||||9|
 |105_072| | |||||17|
