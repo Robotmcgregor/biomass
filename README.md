@@ -60,9 +60,28 @@ this is the same file: "C:\Users\robot\projects\cdu\biomass\collated_agb\2023110
 
 ------------------------------------------------------------------------------------------
 
-Processing Status
+## Processing Status
 
-height: Height data is on the 0565 HD and in the biomass directory.
+### QLD silo data
+
+rerunning:
+
+| Variable | SLATS | SLATS & TERN | DATE |
+|:-:|:-:|:-:|:-:|
+|daily_rain | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1825 | Running | 20240317 |
+|rh_tmax | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1823 | Running | 20240317 |
+|rh_tmin|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1822|| |
+|et_actual|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1821|Running| 20240317 |
+|min_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1820|| |
+|max_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1824|| |
+	
+
+* rh_tmax - final data
+* rh_tmin - final data
+* daily_rain - final data
+* et_actual - final data
+* min_temp - final data
+* max_temp - final data
 
 ----------------------------------------------------------------------------
 
@@ -77,7 +96,7 @@ Local machine: ntg_repo/carbon/biomass/nb/field_data/agb_with_height/biomass_fro
 
 ----------------------------------------------------------------------------------------
 
-##### Collate meteorological data - seasonal and si
+##### Collate meteorological data - seasonal and si - check this as it runs out of memory.
 
 PGB-BAS21: biomass/nb/seasonal_index/merge_meteorological_var_seasonal_si.ipynb
 
@@ -97,27 +116,27 @@ check that the new location works?
 ##### Extract zonal Statistics
 
 ## Zonal Stats Processing Status
-|Tile | SR & FC | Density & Height | Met | Seasonal & SI | Fire | Number of Sites |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 101_072 |  |  | ||| 10 |
-|101_073 | | | | | | 9 | 
-|101_074| | | | | | 2|
-|102_071| | | | | | 13| 
-|102_072| | | | | |  13| 
-|102_073 | | | | | | 8| 
-|103_070| | | | | | 12|
-|103_071| | | | | | 3| 
-|103_072| | | | | | 11| 
-|104_069| | | | | |  2|
-|104_070| | | | | | 10|
-|104_071| | | | | | 5|
-|105_069| | | | | | 15| 
-|105_070| | ||||10|
-|105_071| | ||||9|
-|105_072| | ||||17|
-|105_073| | ||||1|
-|106_069| |||||29|
-|106_071||||||16|
+|Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 101_072 |  |  | | ||| 10 |
+|101_073 | | | | ||  | 9 | 
+|101_074| | | | || | 2|
+|102_071| | | | || | 13| 
+|102_072| | | | | ||  13| 
+|102_073 | | | | | || 8| 
+|103_070| | || | | | |12|
+|103_071| | | || | | 3| 
+|103_072| | | || | | 11| 
+|104_069| | | | || |  2|
+|104_070| | | | || | 10|
+|104_071| | | | | || 5|
+|105_069| | | | | || 15| 
+|105_070| | Height | ||||10|
+|105_071| | |||||9|
+|105_072| | |||||17|
+|105_073| | |||||1|
+|106_069| ||||||29|
+|106_071|||||||16|
 
 Extract zonal statistics for Landsat tile SR and FC data, and create and extract fire mask data.
 
