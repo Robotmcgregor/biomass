@@ -37,6 +37,8 @@ This notebook functions on:
 
 Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb](http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb)
 
+Or this: [http://localhost:8888/notebooks/projects/cdu/biomass/nb/collate_data/colate_slats_and_tern_agb_datasets.ipynb}(http://localhost:8888/notebooks/projects/cdu/biomass/nb/collate_data/colate_slats_and_tern_agb_datasets.ipynb)
+
 
 
 height: Height data is on the 0565 HD and in the biomass directory.
