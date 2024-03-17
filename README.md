@@ -44,7 +44,7 @@ This notebook functions on:
 * env - baimass_zonal
 * It searches for the TERN and SLATS csv files: slats_c_bio_site_totals.csv and c_tern_bio_site_totals.csv
 * Located here: cdu\data\tern_data
-* Outputs are: C:\Users\robot\projects\cdu\data\output\{date}\slats_tern_biomass.csv
+* Outputs are: C:\Users\robot\projects\cdu\data\output\{date}\slats_tern_biomass.csv and slats_tern_biomass.shp
 
 ------------------------------------------------------------------------------------------
 
@@ -217,6 +217,9 @@ Locate and git:
 * Local machine: ntg_repo/carbon/biomass/nb/report/meteorological_trends_for_loop.ipynb
 
 * Local machine: ntg_repo/carbon/biomass/nb/field_data/agb_with_height/biomass_from_basal_and_height.ipynb
+
+## Other issues
+* There may have been an issue related to dates??
 
 
 Met zonal stats per site: need to be redone.
