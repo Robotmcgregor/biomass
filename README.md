@@ -100,6 +100,8 @@ Local machine: ntg_repo/carbon/biomass/nb/field_data/agb_with_height/biomass_fro
 
 PGB-BAS21: biomass/nb/seasonal_index/merge_meteorological_var_seasonal_si.ipynb
 
+Note: collation pipeline pulls this data not collated: U:\biomass\raw_zonal_stats\met\collation\slats_tern
+
 ---------------------------------------------------------------------------------------------
 
 ## Create Height data
