@@ -4,7 +4,7 @@
 #### SLATS
 
 NTG system:
-Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb
+Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb](http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb)
 
 Lenovo location: 
 Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb](http://localhost:8888/notebooks/projects/cdu/biomass/nb/field_data/biomass_field_data_clean_v6.ipynb)
@@ -20,7 +20,8 @@ This notebook functions on:
 
 #### TERN
 
-Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v2.ipynb
+Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v2.ipynb](
+http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v2.ipynb)
 
 This notebook functions on:
 
@@ -29,11 +30,12 @@ This notebook functions on:
 * Located here: cdu\data\tern_data
 * Outputs are: :\Users\robot\projects\cdu\data\output\{date}\c_tern_bio_site_totals.csv
 
+-----------------------------------------------------------------------------------------
+
 ##### Collate SLATS and TERN
 
 
-
-Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb
+Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb](http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb)
 
 
 
