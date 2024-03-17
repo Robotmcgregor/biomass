@@ -46,6 +46,17 @@ This notebook functions on:
 * Located here: cdu\data\tern_data
 * Outputs are: C:\Users\robot\projects\cdu\data\output\{date}\slats_tern_biomass.csv and slats_tern_biomass.shp
 
+---------------------------------------------------------------------------------------
+ISSUE: 167 (tern and slats) items vrs 1263 (tern, slats and biolab)
+site should have year also to allow for repeated visits
+
+Outputs:
+20230407 - tern, slats and biolib
+
+"U:\biomass\collated_agb\20231103\slats_tern_biomass.csv" is what is loaded into tile_biomass_height and density pipeline
+"U:\biomass\collated_agb\20231103\slats_tern_biomass.csv" - qld climate
+
+this is the same file: "C:\Users\robot\projects\cdu\biomass\collated_agb\20231103\slats_tern_biomass.csv" works out at 189 items and site is "{site}_{year}" and site_name is "{site}"
 ------------------------------------------------------------------------------------------
 
 height: Height data is on the 0565 HD and in the biomass directory.
@@ -137,14 +148,14 @@ Latest biomass data: U:\biomass\collated_agb\20230927\slats_tern_biomass.csv
 
 rerunning:
 
-| Variable | SLATS | SLATS & TERN |
-|:-:|:-:|:-:|
-|daily_rain | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1825 | Running |
-|rh_tmax | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1823 | Running | 
-|rh_tmin|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1822|Running|
-|et_actual|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1821|Running|
-|min_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1820|Running|
-|max_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1824|Running|
+| Variable | SLATS | SLATS & TERN | DATE |
+|:-:|:-:|:-:|:-:|
+|daily_rain | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1825 | Running | 20240317 |
+|rh_tmax | X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1823 | Running | 20240317 |
+|rh_tmin|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1822|| |
+|et_actual|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1821|Running| 20240317 |
+|min_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1820|| |
+|max_temp|X:\PGB\RSU\biomass\zonal\slats_met\rmcgr_meteorological_20231102_1824|| |
 	
 
 * rh_tmax - final data
