@@ -5,6 +5,13 @@
 
 Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb
 
+This notebook functions on:
+
+* env - baimass_zonal
+* It searches for an excel spreadsheet called:
+* Located here: cdu\data\slats\varified_by_rm
+* Outputs are: C:\Users\robot\projects\cdu\data\output\{date}\slats_c_bio_site_totals.csv
+
 ----------------------------------------------------------------------------------
 
 #### TERN
@@ -69,14 +76,10 @@ Pipeline outputs:
 U:\scratch\rob\pipelines\outputs
 
 
-
-
 ### Machine Learning
 Notebook locations:
 
 C:\Users\rmcgr\ntg_repo\carbon\biomass\nb\ml
-
-
 
 
 Random Forrest Regression: sklearn_random_forest_regression_for_seasonal_selections.ipynb (http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/ml/clean_models/sklearn_random_forest_regression_for_seasonal_selections.ipynb)
@@ -156,6 +159,8 @@ rerunning:
 | Surface Reflectance | Dry seasonal composite with fire mask applied | dbifm_dry |
 | Surface Reflectance | Annual seasonal composite | dbi |
 | Surface Reflectance | Dry seasonal composite | dbi_dry |
+
+Additional tables are here: https://confluence.nt.gov.au/display/ENVD/Collation+Pipeline+notes
 
 --------------------------------------------------------------------------------------------
 slats only: "U:\biomass\agb\20231102\slats_tern_biomass.csv"
