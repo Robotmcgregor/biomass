@@ -8,18 +8,30 @@ Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field
 This notebook functions on:
 
 * env - baimass_zonal
-* It searches for an excel spreadsheet called:
+* It searches for an Excel spreadsheet called: slats_biomass_field_data.xlsx
 * Located here: cdu\data\slats\varified_by_rm
 * Outputs are: C:\Users\robot\projects\cdu\data\output\{date}\slats_c_bio_site_totals.csv
 
 ----------------------------------------------------------------------------------
 
 #### TERN
+
+Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v2.ipynb
+
+This notebook functions on:
+
+* env - baimass_zonal
+* It searches for an Excel spreadsheet called:: TERN basal_area_data_Grant_SEPT2022.xlsx
+* Located here: cdu\data\tern_data
+* Outputs are: :\Users\robot\projects\cdu\data\output\{date}\c_tern_bio_site_totals.csv
+
 ##### Collate SLATS and TERN
+
+
 
 Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb
 
-Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v2.ipynb
+
 
 height: Height data is on the 0565 HD and in the biomass directory.
 
