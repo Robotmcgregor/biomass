@@ -26,7 +26,7 @@ http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_pr
 This notebook functions on:
 
 * env - baimass_zonal
-* It searches for an Excel spreadsheet called:: TERN basal_area_data_Grant_SEPT2022.xlsx
+* It searches for an Excel spreadsheet called: TERN basal_area_data_Grant_SEPT2022.xlsx
 * Located here: cdu\data\tern_data
 * Outputs are: :\Users\robot\projects\cdu\data\output\{date}\c_tern_bio_site_totals.csv
 
@@ -37,9 +37,16 @@ This notebook functions on:
 
 Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb](http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb)
 
-Or this: [http://localhost:8888/notebooks/projects/cdu/biomass/nb/collate_data/colate_slats_and_tern_agb_datasets.ipynb}(http://localhost:8888/notebooks/projects/cdu/biomass/nb/collate_data/colate_slats_and_tern_agb_datasets.ipynb)
+Or this: [http://localhost:8888/notebooks/projects/cdu/biomass/nb/collate_data/colate_slats_and_tern_agb_datasets.ipynb](http://localhost:8888/notebooks/projects/cdu/biomass/nb/collate_data/colate_slats_and_tern_agb_datasets.ipynb)
 
+This notebook functions on:
 
+* env - baimass_zonal
+* It searches for the TERN and SLATS csv files: slats_c_bio_site_totals.csv and c_tern_bio_site_totals.csv
+* Located here: cdu\data\tern_data
+* Outputs are: C:\Users\robot\projects\cdu\data\output\{date}\slats_tern_biomass.csv
+
+------------------------------------------------------------------------------------------
 
 height: Height data is on the 0565 HD and in the biomass directory.
 
