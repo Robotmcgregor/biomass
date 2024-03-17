@@ -3,8 +3,11 @@
 
 #### SLATS
 
+NTG system:
 Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb
-Lenovo location: Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb](http://localhost:8888/notebooks/projects/cdu/biomass/nb/field_data/biomass_field_data_clean_v6.ipynb)
+
+Lenovo location: 
+Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb](http://localhost:8888/notebooks/projects/cdu/biomass/nb/field_data/biomass_field_data_clean_v6.ipynb)
 
 This notebook functions on:
 
