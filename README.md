@@ -37,26 +37,12 @@ This notebook functions on:
 
 Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb](http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb)
 
-Or this: [http://localhost:8888/notebooks/projects/cdu/biomass/nb/collate_data/colate_slats_and_tern_agb_datasets.ipynb](http://localhost:8888/notebooks/projects/cdu/biomass/nb/collate_data/colate_slats_and_tern_agb_datasets.ipynb)
-
 This notebook functions on:
 
 * env - baimass_zonal
 * It searches for the TERN and SLATS csv files: slats_c_bio_site_totals.csv and c_tern_bio_site_totals.csv
 * Located here: cdu\data\tern_data
-* Outputs are: C:\Users\robot\projects\cdu\data\output\{date}\slats_tern_biomass.csv and slats_tern_biomass.shp
-
----------------------------------------------------------------------------------------
-ISSUE: 167 (tern and slats) items vrs 1263 (tern, slats and biolab)
-site should have year also to allow for repeated visits
-
-Outputs:
-20230407 - tern, slats and biolib
-
-"U:\biomass\collated_agb\20231103\slats_tern_biomass.csv" is what is loaded into tile_biomass_height and density pipeline
-"U:\biomass\collated_agb\20231103\slats_tern_biomass.csv" - qld climate
-
-this is the same file: "C:\Users\robot\projects\cdu\biomass\collated_agb\20231103\slats_tern_biomass.csv" works out at 189 items and site is "{site}_{year}" and site_name is "{site}"
+* Outputs are: "D:\biomass\collate_agb\{date}\slats_tern_biomass.csv"
 
 ------------------------------------------------------------------------------------------
 
