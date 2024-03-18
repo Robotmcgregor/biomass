@@ -75,6 +75,22 @@ rerunning:
 
 Local machine: ntg_repo/carbon/biomass/nb/report/meteorological_trends_for_loop.ipynb
 
+This notebook functions on:
+
+* env - biomass_zonal
+* It searches for Met zonal stats files: {site}.{year}_1ha_{data_type}_zonal_stats.csv
+* Located here: X:\PGB\RSU\biomass\zonal_stats_raw\met_clean\{data_type}
+* Outputs are:
+  	- plots
+  	- mean monthly {data type}: i.e. agb02_monthly_daily_rain.csv)
+  	- monthly daily rain: agb02_mean_monthly_daily_rain.csv
+  	- si_daily_rain: seasonal_agb02_2012_daily_rain.csv
+  	- box plots
+  	- line plots
+
+
+----------------------------------------------------------------------------------
+
 Add height from model to site data - try using different allometry.
 
 Local machine: ntg_repo/carbon/biomass/nb/field_data/agb_with_height/biomass_from_basal_and_height.ipynb
