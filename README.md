@@ -260,7 +260,6 @@ Locate and git:
 
 * Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb
 
-* Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v2.ipynb
 
 * Local machine: ntg_repo/carbon/biomass/nb/report/meteorological_trends_for_loop.ipynb
 
