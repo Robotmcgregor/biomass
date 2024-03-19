@@ -126,10 +126,10 @@ check that the new location works?
 | 101_073 | Zonal - running | Complete | | ||  | 9 | 
 | 101_074 | Zonal - running | Complete | | || | 2|
 | 102_071 | Zonal - running | | | || | 13| 
-| 102_072 | | Running | | | ||  13| 
-| 102_073 | | | | | || 8| 
-|103_070| | || | | | |12|
-|103_071| | | || | | 3| 
+| 102_072 |Zonal - running  | Running | | | ||  13| 
+| 102_073 | Zonal - running | | | | || 8| 
+|103_070| Zonal - running  | || | | | |12|
+|103_071| Zonal - running  | | || | | 3| 
 |103_072| | | || | | 11| 
 |104_069| Running | | | || |  2|
 |104_070| Running |Complete | | || | 10|
