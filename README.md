@@ -124,7 +124,7 @@ check that the new location works?
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 101_072 | Zonal - running | Running | | ||| 10 |
 | 101_073 | Zonal - running | Complete | | ||  | 9 | 
-| 101_074 | Zonal - running | Running | | || | 2|
+| 101_074 | Zonal - running | Complete | | || | 2|
 | 102_071 | Zonal - running | | | || | 13| 
 | 102_072 | | Running | | | ||  13| 
 | 102_073 | | | | | || 8| 
