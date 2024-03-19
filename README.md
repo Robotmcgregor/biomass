@@ -123,10 +123,10 @@ check that the new location works?
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 101_072 | Zonal - running | Running | | ||| 10 |
-| 101_073 | Zonal - running | Running | | ||  | 9 | 
+| 101_073 | Zonal - running | Complete | | ||  | 9 | 
 | 101_074 | Zonal - running | Running | | || | 2|
 | 102_071 | Zonal - running | | | || | 13| 
-| 102_072 | | | | | ||  13| 
+| 102_072 | | Running | | | ||  13| 
 | 102_073 | | | | | || 8| 
 |103_070| | || | | | |12|
 |103_071| | | || | | 3| 
