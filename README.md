@@ -122,17 +122,17 @@ check that the new location works?
 ## Zonal Stats Processing Status
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 101_072 | Masking | Running | | ||| 10 |
-| 101_073 | Masking | Running | | ||  | 9 | 
-| 101_074 | Masking | Running | | || | 2|
-| 102_071 | Masking | | | || | 13| 
+| 101_072 | Zonal - running | Running | | ||| 10 |
+| 101_073 | Zonal - running | Running | | ||  | 9 | 
+| 101_074 | Zonal - running | Running | | || | 2|
+| 102_071 | Zonal - running | | | || | 13| 
 | 102_072 | | | | | ||  13| 
 | 102_073 | | | | | || 8| 
 |103_070| | || | | | |12|
 |103_071| | | || | | 3| 
 |103_072| | | || | | 11| 
 |104_069| Running | | | || |  2|
-|104_070| Running | | | || | 10|
+|104_070| Running |Complete | | || | 10|
 |104_071| Running | | | | || 5|
 |105_069| Running | | | | || 15| 
 |105_070| | Complete | ||||10|
