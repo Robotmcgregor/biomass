@@ -122,13 +122,13 @@ check that the new location works?
 ## Zonal Stats Processing Status
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 101_072 | Zonal - running | Running | | ||| 10 |
+| 101_072 | Zonal - running | Complete | | ||| 10 |
 | 101_073 | Zonal - running | Complete | | ||  | 9 | 
 | 101_074 | Zonal - running | Complete | | || | 2|
 | 102_071 | Zonal - running | | | || | 13| 
 | 102_072 |Zonal - running  | Running | | | ||  13| 
 | 102_073 | Zonal - running | | | | || 8| 
-|103_070| Zonal - running  | || | | | |12|
+|103_070| Zonal - running  | Running || | | | |12|
 |103_071| Zonal - running  | | || | | 3| 
 |103_072| | | || | | 11| 
 |104_069| Running | | | || |  2|
