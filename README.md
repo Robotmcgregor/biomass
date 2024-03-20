@@ -122,23 +122,23 @@ check that the new location works?
 ## Zonal Stats Processing Status
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 101_072 | Complete | Complete | | ||| 10 |
-| 101_073 | Complete | Complete | | ||  | 9 | 
-| 101_074 | Complete | Complete | | || | 2|
-| 102_071 | Complete | Complete | | || | 13| 
-| 102_072 |Zonal - running  | Complete | | | ||  13| 
-| 102_073 | Complete | Complete | | | || 8| 
-|103_070| Complete | Complete || | | | |12|
-|103_071| Complete | Complete | || | | 3| 
-|103_072| Running | | || | | 11| 
+| 101_072 | Complete | 1988-1991 | | ||| 10 |
+| 101_073 | Complete | 2011-2014 | | ||  | 9 | 
+| 101_074 | Complete | 2011-2014 | | || | 2|
+| 102_071 | Complete | 1988-1991 | | || | 13| 
+| 102_072 |Zonal - running  | 1988-1991 | | | ||  13| 
+| 102_073 | Complete | 2010 | | | || 8| 
+|103_070| Complete | 1988-1992 || | | | |12|
+|103_071| Complete | 1988 | || | | 3| 
+|103_072| Running | 1988 | || | | 11| 
 |104_069| Running | | | || |  2|
 |104_070| Complete |Complete | | || | 10|
 |104_071| Complete | | | | || 5|
 |105_069| Running | | | | || 15| 
-|105_070| | Complete | ||||10|
-|105_071| | Running |||||9|
-|105_072| |Running |||||17|
-|105_073| | Running |||||1|
+|105_070| | Complete | 1988-2021 ||||10|
+|105_071| | 1988-2021 |||||9|
+|105_072| | 1988-2022 |||||17|
+|105_073| | 2010-2021 |||||1|
 |106_069| mask running ||||||29|
 |106_071|||||||16|
 
