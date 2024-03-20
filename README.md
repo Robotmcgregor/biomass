@@ -122,24 +122,24 @@ check that the new location works?
 ## Zonal Stats Processing Status
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 101_072 | Zonal - running | Complete | | ||| 10 |
-| 101_073 | Zonal - running | Complete | | ||  | 9 | 
-| 101_074 | Zonal - running | Complete | | || | 2|
-| 102_071 | Zonal - running | | | || | 13| 
-| 102_072 |Zonal - running  | Running | | | ||  13| 
-| 102_073 | Zonal - running | | | | || 8| 
-|103_070| Zonal - running  | Running || | | | |12|
-|103_071| Zonal - running  | | || | | 3| 
-|103_072| | | || | | 11| 
+| 101_072 | Complete | Complete | | ||| 10 |
+| 101_073 | Complete | Complete | | ||  | 9 | 
+| 101_074 | Complete | Complete | | || | 2|
+| 102_071 | Complete | Complete | | || | 13| 
+| 102_072 |Zonal - running  | Complete | | | ||  13| 
+| 102_073 | Complete | Complete | | | || 8| 
+|103_070| Complete | Complete || | | | |12|
+|103_071| Complete | Complete | || | | 3| 
+|103_072| Running | | || | | 11| 
 |104_069| Running | | | || |  2|
-|104_070| Running |Complete | | || | 10|
-|104_071| Running | | | | || 5|
+|104_070| Complete |Complete | | || | 10|
+|104_071| Complete | | | | || 5|
 |105_069| Running | | | | || 15| 
 |105_070| | Complete | ||||10|
 |105_071| | Running |||||9|
 |105_072| |Running |||||17|
 |105_073| | Running |||||1|
-|106_069| ||||||29|
+|106_069| mask running ||||||29|
 |106_071|||||||16|
 
 Extract zonal statistics for Landsat tile SR and FC data, and create and extract fire mask data.
