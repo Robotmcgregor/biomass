@@ -122,12 +122,12 @@ check that the new location works?
 ## Zonal Stats Processing Status
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 101_072 | Complete | 1988-1991 | | ||| 10 |
-| 101_073 | Complete | 2011-2014 | | ||  | 9 | 
+| 101_072 | Complete | 1988-1991 -Complete |  | ||| 10 |
+| 101_073 | Complete | 2011-2014 - Complete | | ||  | 9 | 
 | 101_074 | Complete | 2011-2014 | | || | 2|
 | 102_071 | Complete | 1988-1991 | | || | 13| 
 | 102_072 |Zonal - running  | 1988-1991 | | | ||  13| 
-| 102_073 | Complete | 2010-2021 | | | || 8| 
+| 102_073 | Complete | 2010-2021 - Complete | | | || 8| 
 |103_070| Complete | 1988-1992 || | | |12|
 |103_071| Complete | 1988 | || | | 3| 
 |103_072| Running | 1988 | || | | 11| 
