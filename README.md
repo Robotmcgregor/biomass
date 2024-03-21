@@ -130,17 +130,17 @@ check that the new location works?
 | 102_073 | Complete | 2010-2021 - Complete | | | || 8| 
 |103_070| Complete | 1988-1992 || | | |12|
 |103_071| Complete | Running | || | | 3| 
-|103_072| Running | Running | || | | 11| 
+|103_072| Complete | Running | || | | 11| 
 |104_069| Running | | | || |  2|
 |104_070| Complete |Complete | | || | 10|
 |104_071| Complete | | | | || 5|
 |105_069| Running | | | | || 15| 
-|105_070| | 1988-2021 |  ||||10|
-|105_071| | 1988-2021 |||||9|
+|105_070| | Complete |  ||||10|
+|105_071| Running | 1988-2021 |||||9|
 |105_072| | 1988-2022 |||||17|
 |105_073| | 2010-2021 |||||1|
-|106_069| mask running ||||||29|
-|106_071|||||||16|
+|106_069| Complete ||||||29|
+|106_071| Complete||||||16|
 
 Extract zonal statistics for Landsat tile SR and FC data, and create and extract fire mask data.
 
