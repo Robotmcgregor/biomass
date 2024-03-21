@@ -129,8 +129,8 @@ check that the new location works?
 | 102_072 |Zonal - running  | 1988-1991 | | | ||  13| 
 | 102_073 | Complete | 2010-2021 - Complete | | | || 8| 
 |103_070| Complete | 1988-1992 || | | |12|
-|103_071| Complete | 1988 | || | | 3| 
-|103_072| Running | 1988 | || | | 11| 
+|103_071| Complete | Running | || | | 3| 
+|103_072| Running | Running | || | | 11| 
 |104_069| Running | | | || |  2|
 |104_070| Complete |Complete | | || | 10|
 |104_071| Complete | | | | || 5|
