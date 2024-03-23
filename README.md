@@ -137,8 +137,8 @@ check that the new location works?
 |105_069| Running | | | | || 15| 
 |105_070| | Complete |  ||||10|
 |105_071| Complete | Complete 1988-2021 | ||||9|
-|105_072| Running | 1988-2022 |||||17|
-|105_073| | 2010-2021 |||||1|
+|105_072| Running | Complete 1988-2022 |||||17|
+|105_073| | Running 2010-2021 |||||1|
 |106_069| Complete ||||||29|
 |106_071| Complete||||||16|
 
