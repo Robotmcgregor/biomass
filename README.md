@@ -122,16 +122,16 @@ check that the new location works?
 ## Zonal Stats Processing Status
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 101_072 | Complete | 1988-1991 -Complete |  | ||| 10 |
+| 101_072 | Complete | 1988-1991 -Complete | Running | ||| 10 |
 | 101_073 | Complete | 2011-2014 - Complete | | ||  | 9 | 
-| 101_074 | Complete | 2011-2014 - Running | | || | 2|
-| 102_071 | Complete | 1988-1991 - Running | | || | 13| 
-| 102_072 | Complete  | 1988-1991 | | | ||  13| 
+| 101_074 | Complete | 2011-2014 - Complete | | || | 2|
+| 102_071 | Complete | 1988-1991 - Complete | | || | 13| 
+| 102_072 | Complete  | 1988-1991 - Running | | | ||  13| 
 | 102_073 | Complete | 2010-2021 - Complete | | | || 8| 
-|103_070| Complete | 1988-1992 || | | |12|
+|103_070| Complete | 1988-1992 - Running || | | |12|
 |103_071| Complete | 1988-2022 | || | | 3| 
 |103_072| Complete | 1988 -2022 | || | | 11| 
-|104_069| Running | Running 1998 - 2021 | | || |  2|
+|104_069| Running - 20020903 error | Running 1998 - 2021 | | || |  2|
 |104_070| Complete |Running | | || | 10|
 |104_071| Complete | Running 1988 -1991 | | | || 5|
 |105_069| Running | | | | || 15| 
