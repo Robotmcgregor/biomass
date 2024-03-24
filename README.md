@@ -124,21 +124,21 @@ check that the new location works?
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 101_072 | Complete | 1988-1991 -Complete |  | ||| 10 |
 | 101_073 | Complete | 2011-2014 - Complete | | ||  | 9 | 
-| 101_074 | Complete | 2011-2014 | | || | 2|
-| 102_071 | Complete | 1988-1991 | | || | 13| 
+| 101_074 | Complete | 2011-2014 - Running | | || | 2|
+| 102_071 | Complete | 1988-1991 - Running | | || | 13| 
 | 102_072 | Complete  | 1988-1991 | | | ||  13| 
 | 102_073 | Complete | 2010-2021 - Complete | | | || 8| 
 |103_070| Complete | 1988-1992 || | | |12|
 |103_071| Complete | 1988-2022 | || | | 3| 
 |103_072| Complete | 1988 -2022 | || | | 11| 
-|104_069| Running | Running | | || |  2|
+|104_069| Running | Running 1998 - 2021 | | || |  2|
 |104_070| Complete |Running | | || | 10|
-|104_071| Complete | | | | || 5|
+|104_071| Complete | Running 1988 -1991 | | | || 5|
 |105_069| Running | | | | || 15| 
 |105_070| | Complete |  ||||10|
 |105_071| Complete | Complete 1988-2021 | ||||9|
 |105_072| Running | Complete 1988-2022 |||||17|
-|105_073| | Running 2010-2021 |||||1|
+|105_073| Running | Complete 2010-2021 |||||1|
 |106_069| Complete ||||||29|
 |106_071| Complete||||||16|
 
