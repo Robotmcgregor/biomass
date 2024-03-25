@@ -133,16 +133,19 @@ check that the new location works?
 | 103_072 | Complete | 1988 -2022 - Complete | || | | 11| 
 | 104_069 | Running - 20020903 error | 1998 - 2019 | | || |  2|
 | 104_070 | Complete |1988-1991 | | || | 10|
-| 104_071 | Complete | 1988 - 2022 - Complete | | | || 5|
+| 104_071 | Complete | 1988 - 2022 -  | | | || 5|
 | 105_069 | Running | | | | || 15| 
 | 105_070 | | Complete |  ||||10|
 | 105_071 | Complete | Complete 1988-2021 | Complete ||||9|
 | 105_072 | Complete | Complete 1988-2022 | Complete ||||17|
-| 105_073 | Complete | Complete 2010-2021 | Running ||||1|
+| 105_073 | Complete | Complete 2010-2021 | Complete ||||1|
 | 106_069 | Complete |Running |||||29|
 | 106_071 | Complete||||||16|
 
 Extract zonal statistics for Landsat tile SR and FC data, and create and extract fire mask data.
+
+Fire:
+ nt_mosaic_biomass_burnscar_zonal_pipeline
 
 PGB-BAS21: biomass/tile_biomass_zonal_pipeline/code/step1_1_initiate_fractional_cover_zonal_stats_pipeline.py
 
