@@ -34,7 +34,6 @@ This notebook functions on:
 
 ##### Collate SLATS and TERN
 
-
 Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb](http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb)
 
 This notebook functions on:
@@ -122,25 +121,25 @@ check that the new location works?
 ## Zonal Stats Processing Status
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 101_072 | Complete | 1988-1991 -Complete | Complete | ||| 10 |
-| 101_073 | Complete | 2011-2014 - Complete | Complete | ||  | 9 | 
-| 101_074 | Complete | 2011-2014 - Complete | Complete | || | 2|
-| 102_071 | Complete | 1988-1991 - Complete | Complete | || | 13| 
+| 101_072 | Complete | 1988-1991 -Complete | Complete | Complete|Complete|Complete| 10 |
+| 101_073 | Complete | 2011-2014 - Complete | Complete |Complete |Complete|Complete  | 9 | 
+| 101_074 | Complete | 2011-2014 - Complete | Complete |Complete |Complete|Complete | 2|
+| 102_071 | Complete | 1988-1991 - Complete | Complete |Complete |Complete| Complete | 13| 
 | 102_072 | Complete | 1988-1991 - Running | Complete | | ||  13| 
 | 102_073 | Complete | 2010-2021 - Complete | Complete | | || 8| 
 | 103_070 | Complete | 1988-1992 - Complete | Complete | | | |12|
 | 103_071 | Complete | 1988-2022 - Complete | Running || | | 3| 
-| 103_072 | Complete | 1988-2022 - Complete | || | | 11| 
-| 104_069 | Running - 20020903 error | 1998-2019 - Complete | Complete| || |  2|
-| 104_070 | Complete |1988-1991 | | || | 10|
+| 103_072 | Complete | 1988-2022 - Complete | Running || | | 11| 
+| 104_069 | Complete | 1998-2019 - Complete | | || |  2|
+| 104_070 | Complete |1988-1991 - Running | | || | 10|
 | 104_071 | Complete | 1988-2022 - Complete | Complete | | || 5|
-| 105_069 | Complete | | | | || 15| 
-| 105_070 | Running | 1988-2022 - Complete | Complete  ||||10|
-| 105_071 | Complete | Complete 1988-2021 | Complete ||||9|
+| 105_069 | Complete | Running | | | || 15| 
+| 105_070 | Complete | 1988-2022 - Complete | Complete  ||||10|
+| 105_071 | Complete | 1988-2021 - Complete | Complete ||||9|
 | 105_072 | Complete | 1988-2022 - Complete | Complete ||||17|
 | 105_073 | Complete | 2010-2021 - Complete | Complete ||||1|
-| 106_069 | Complete | 1988-2022 - Complete |Running ||||29|
-| 106_071 | Complete | 1988-2004 - |||||16|
+| 106_069 | Complete | 1988-2022 - Complete | Complete | Complete |||29|
+| 106_071 | Complete | 1988-2023 - Complete |||||16|
 
 Extract zonal statistics for Landsat tile SR and FC data, and create and extract fire mask data.
 
