@@ -1,6 +1,29 @@
 ## Field Data Processing
 ### Converting basal to AGB
 
+## Zonal Stats Processing Status Rerun
+|Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 101_072 | Rerunning | 1988-1991 - Complete | Complete | Complete | Complete | Complete | 10 |
+| 101_073 | Complete | 2011-2014 - Complete | Complete | Complete | Complete | Complete | 9 | 
+| 101_074 | Complete | 2011-2014 - Complete | Complete | Complete | Complete | Complete | 2 |
+| 102_071 | Complete | 1988-1991 - Complete | Complete | Complete | Complete | Complete | 13 | 
+| 102_072 | Complete | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 13 | 
+| 102_073 | Complete | 2010-2021 - Complete | Complete | Complete | Complete | Complete| 8 | 
+| 103_070 | Complete | 1988-1992 - Complete | Complete | Complete | Complete | Complete | 12|
+| 103_071 | Complete | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 3 | 
+| 103_072 | Complete | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 11 | 
+| 104_069 | Complete | 1998-2022 - Complete | Running | Complete | Complete | Complete | 2 |
+| 104_070 | Complete | 1988-2022 - Complete | Running | Complete | Complete | Complete | 10 |
+| 104_071 | Complete | 1988-2022 - Complete | Complete | Complete | Complete | Complete| 5|
+| 105_069 | Complete | 1988-2023 - Complete | Running | Complete | Complete | Complete | 15| 
+| 105_070 | Complete | 1988-2022 - Complete | Complete | Complete | Complete | Complete | 10 |
+| 105_071 | Complete | 1988-2021 - Complete | Complete | Complete | Complete | Complete | 9 |
+| 105_072 | Complete | 1988-2022 - Complete | Complete | Complete | Complete | Complete | 17 |
+| 105_073 | Complete | 2010-2021 - Complete | Complete | Complete | Complete | Complete | 1 |
+| 106_069 | Complete | 1988-2022 - Complete | Complete | Complete | Complete | Complete | 29 |
+| 106_071 | Complete | 1988-2023 - Complete | Complete | Complete | Complete | Complete | 16 |
+
 #### SLATS
 
 NTG system:
