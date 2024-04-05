@@ -4,10 +4,10 @@
 ## Zonal Stats Processing Status Rerun
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 101_072 | Re-running | 1988-1991 - Complete | Re-running | Complete | Complete | Complete | 10 |
-| 101_073 | Re-running  | 2011-2014 - Complete | Re-running  | Complete | Complete | Complete | 9 | 
-| 101_074 | Complete | 2011-2014 - Complete | Complete | Complete | Complete | Complete | 2 |
-| 102_071 | Complete | 1988-1991 - Complete | Complete | Complete | Complete | Complete | 13 | 
+| 101_072 | Re-ran | 1988-1991 - Complete | Re-ran| Complete | Complete | Complete | 10 |
+| 101_073 | Re-running  | 2011-2014 - Complete | Re-ran | Complete | Complete | Complete | 9 | 
+| 101_074 | Re-running | 2011-2014 - Complete | Complete | Complete | Complete | Complete | 2 |
+| 102_071 | Re-running | 1988-1991 - Complete | Re-running | Complete | Complete | Complete | 13 | 
 | 102_072 | Complete | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 13 | 
 | 102_073 | Complete | 2010-2021 - Complete | Complete | Complete | Complete | Complete| 8 | 
 | 103_070 | Complete | 1988-1992 - Complete | Complete | Complete | Complete | Complete | 12|
