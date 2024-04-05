@@ -329,6 +329,7 @@ Locate and git:
 
 ## Other issues
 * There may have been an issue related to dates??
+* Site 21 and 22 have the same photo and site 22 is dense closed forest
 
 
 Met zonal stats per site: need to be redone.
