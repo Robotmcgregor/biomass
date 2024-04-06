@@ -11,7 +11,7 @@
 | 102_072 |  | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 13 | 
 | 102_073 |  | 2010-2021 - Complete | Complete | Complete | Complete | Complete| 8 | 
 | 103_070 |  | 1988-1992 - Complete | Complete | Complete | Complete | Complete | 12|
-| 103_071 |  | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 3 | 
+| 103_071 | Cleared old burnscar mask  | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 3 | 
 | 103_072 |  | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 11 | 
 | 104_069 |  | 1998-2022 - Complete | Running | Complete | Complete | Complete | 2 |
 | 104_070 |  | 1988-2022 - Complete | Running | Complete | Complete | Complete | 10 |
