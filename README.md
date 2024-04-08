@@ -5,15 +5,15 @@
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 101_072 | failed | 1988-1991 - Complete | Re-ran| Complete | Complete | Complete | 10 |
-| 101_073 | masked | 2011-2014 - Complete | Re-ran | Complete | Complete | Complete | 9 | 
+| 101_073 | masking on all - running | 2011-2014 - Complete | Re-ran | Complete | Complete | Complete | 9 | 
 | 101_074 | masked | 2011-2014 - Complete | Complete | Complete | Complete | Complete | 2 |
-| 102_071 |  masked | 1988-1991 - Complete | Re-running | Complete | Complete | Complete | 13 | 
+| 102_071 | masking on all - running | 1988-1991 - Complete | Re-running | Complete | Complete | Complete | 13 | 
 | 102_072 | masking | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 13 | 
 | 102_073 | masking | 2010-2021 - Complete | Complete | Complete | Complete | Complete| 8 | 
 | 103_070 | masking | 1988-1992 - Complete | Complete | Complete | Complete | Complete | 12|
 | 103_071 | masking  | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 3 | 
-| 103_072 |  | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 11 | 
-| 104_069 |  | 1998-2022 - Complete | Running | Complete | Complete | Complete | 2 |
+| 103_072 |  running | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 11 | 
+| 104_069 | masking on all - running | 1998-2022 - Complete | Running | Complete | Complete | Complete | 2 |
 | 104_070 |   | 1988-2022 - Complete | Running | Complete | Complete | Complete | 10 |
 | 104_071 || 1988-2022 - Complete | Complete | Complete | Complete | Complete| 5|
 | 105_069 |  | 1988-2023 - Complete | Running | Complete | Complete | Complete | 15| 
