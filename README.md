@@ -18,11 +18,11 @@
 | 104_071 | masking | 1988-2022 - Complete | Complete | Complete | Complete | Complete| 5|
 | 105_069 | masked | 1988-2023 - Complete | Running | Complete | Complete | Complete | 15| 
 | 105_070 | msking | 1988-2022 - Complete | Complete | Complete | Complete | Complete | 10 |
-| 105_071 |  masked | 1988-2021 - Complete | Complete | Complete | Complete | Complete | 9 |
+| 105_071 | running | 1988-2021 - Complete | Complete | Complete | Complete | Complete | 9 |
 | 105_072 | masking | 1988-2022 - Complete | Complete | Complete | Complete | Complete | 17 |
-| 105_073 | masked | 2010-2021 - Complete | Complete | Complete | Complete | Complete | 1 |
-| 106_069 | checked| 1988-2022 - Complete | Complete | Complete | Complete | Complete | 29 |
-| 106_071 | checked | 1988-2023 - Complete | Complete | Complete | Complete | Complete | 16 |
+| 105_073 | running | 2010-2021 - Complete | Complete | Complete | Complete | Complete | 1 |
+| 106_069 | running| 1988-2022 - Complete | Complete | Complete | Complete | Complete | 29 |
+| 106_071 | running | 1988-2023 - Complete | Complete | Complete | Complete | Complete | 16 |
 
 #### SLATS
 
