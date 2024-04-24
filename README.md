@@ -319,6 +319,7 @@ QLD silo data
 ## To do list
 
 Locate and git: 
+* agb02 should this be amg02?
 
 * Local machine: http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/collate_data/collate_slats_tern.ipynb
 
