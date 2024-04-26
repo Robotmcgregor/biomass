@@ -21,7 +21,7 @@
 | 105_071 | complete | 1988-2021 - Complete | Complete | Complete | Complete | Complete | 9 |
 | 105_072 | complete | 1988-2022 - Complete | Complete | Complete | Complete | Complete | 17 |
 | 105_073 | complete | 2010-2021 - Complete | Complete | Complete | Complete | Complete | 1 |
-| 106_069 | complete 1988-2022 - Complete | Complete | Complete | Complete | Complete | 29 |
+| 106_069 | complete | 1988-2022 - Complete | Complete | Complete | Complete | Complete | 29 |
 | 106_071 | complete | 1988-2023 - Complete | Complete | Complete | Complete | Complete | 16 |
 
 #### SLATS
@@ -146,29 +146,6 @@ check that the new location works?
 Current data is {site}
 
 * The issue was the dates month and day was confused in some areas - check the colation on Metabox.
-
-## Zonal Stats Processing Status
-|Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 101_072 | Rerunning | 1988-1991 - Complete | Complete | Complete | Complete | Complete | 10 |
-| 101_073 | Complete | 2011-2014 - Complete | Complete | Complete | Complete | Complete | 9 | 
-| 101_074 | Complete | 2011-2014 - Complete | Complete | Complete | Complete | Complete | 2 |
-| 102_071 | Complete | 1988-1991 - Complete | Complete | Complete | Complete | Complete | 13 | 
-| 102_072 | Complete | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 13 | 
-| 102_073 | Complete | 2010-2021 - Complete | Complete | Complete | Complete | Complete| 8 | 
-| 103_070 | Complete | 1988-1992 - Complete | Complete | Complete | Complete | Complete | 12|
-| 103_071 | Complete | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 3 | 
-| 103_072 | Complete | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 11 | 
-| 104_069 | Complete | 1998-2022 - Complete | Running | Complete | Complete | Complete | 2 |
-| 104_070 | Complete | 1988-2022 - Complete | Running | Complete | Complete | Complete | 10 |
-| 104_071 | Complete | 1988-2022 - Complete | Complete | Complete | Complete | Complete| 5|
-| 105_069 | Complete | 1988-2023 - Complete | Running | Complete | Complete | Complete | 15| 
-| 105_070 | Complete | 1988-2022 - Complete | Complete | Complete | Complete | Complete | 10 |
-| 105_071 | Complete | 1988-2021 - Complete | Complete | Complete | Complete | Complete | 9 |
-| 105_072 | Complete | 1988-2022 - Complete | Complete | Complete | Complete | Complete | 17 |
-| 105_073 | Complete | 2010-2021 - Complete | Complete | Complete | Complete | Complete | 1 |
-| 106_069 | Complete | 1988-2022 - Complete | Complete | Complete | Complete | Complete | 29 |
-| 106_071 | Complete | 1988-2023 - Complete | Complete | Complete | Complete | Complete | 16 |
 
 Extract zonal statistics for Landsat tile SR and FC data, and create and extract fire mask data.
 
@@ -300,7 +277,19 @@ rerunning:
 Additional tables are here: https://confluence.nt.gov.au/display/ENVD/Collation+Pipeline+notes
 
 --------------------------------------------------------------------------------------------
-Run collation Pipeline
+## Run collation Pipeline
+Issues uid 76 and 31 double in areas 
+* merged slats_field_agb_start_ccw_annual_nearest_tile .csv uid 21, 31 - site - auv07_2012, buff01_2021 - no ccw 106069 (buff) and 106071 (auv)
+* merged slats_field_agb_start_ccw_dry_nearest_tile .csv uid 21, 31 - site - auv07_2012, buff01_2021 - no ccw
+* merged slats_field_agb_start_fdc_annual_nearest_tile .csv uid 31 - site - buff01_2021 - no ccw
+* merged slats_field_agb_start_fdc_dry_nearest_tile .csv uid 31 - site - buff01_2021 - no ccw
+* merged slats_field_agb_start_h99_annual_nearest_tile .csv uid 31 - site - buff01_2021 - no ccw
+* merged slats_field_agb_start_h99_dry_nearest_tile .csv uid 31 - site - buff01_2021 - no ccw
+ 
+    
+Outputs:
+
+
 
 bimass/scratch
 
