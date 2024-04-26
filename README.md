@@ -300,16 +300,21 @@ rerunning:
 Additional tables are here: https://confluence.nt.gov.au/display/ENVD/Collation+Pipeline+notes
 
 --------------------------------------------------------------------------------------------
-slats only: "U:\biomass\agb\20231102\slats_tern_biomass.csv"
+Run collation Pipeline
 
+bimass/scratch
 
+* {0}:\cdu\data\latest_biomass_data\20240402\dp1_dbi_si_dry_mask_density_near_met_si_fire.csv
 
+Most up to datae data: 
+* External_Drive:\cdu\data\latest_biomass_data\20240402\dp1_dbi_si_dry_mask_density_near_met_si_fire.csv
 
-slats and tern: "U:\biomass\collated_agb\20231103\slats_tern_biomass.csv"
+Previous data:
+slats only: 
+* "U:\biomass\agb\20231102\slats_tern_biomass.csv"
 
-
-
-
+slats and tern: 
+* "U:\biomass\collated_agb\20231103\slats_tern_biomass.csv"
 
 
 QLD silo data
