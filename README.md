@@ -5,7 +5,7 @@
 |Tile | SR & FC Zonal | Density & Height | Density & Height Zonal | Met | Seasonal & SI | Fire | Number of Sites |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 101_072 | running | 1988-1991 - Complete | Re-ran| Complete | Complete | Complete | 10 |
-| 101_073 | zs - running | 2011-2014 - Complete | Re-ran | Complete | Complete | Complete | 9 | 
+| 101_073 | complete | 2011-2014 - Complete | Re-ran | Complete | Complete | Complete | 9 | 
 | 101_074 | complete | 2011-2014 - Complete | Complete | Complete | Complete | Complete | 2 |
 | 102_071 | complete | 1988-1991 - Complete | Re-running | Complete | Complete | Complete | 13 | 
 | 102_072 | complete | 1988-2022 - Complete | Complete | Complete| Complete | Complete | 13 | 
@@ -300,16 +300,21 @@ rerunning:
 Additional tables are here: https://confluence.nt.gov.au/display/ENVD/Collation+Pipeline+notes
 
 --------------------------------------------------------------------------------------------
-slats only: "U:\biomass\agb\20231102\slats_tern_biomass.csv"
+Run collation Pipeline
 
+bimass/scratch
 
+* {0}:\cdu\data\latest_biomass_data\20240402\dp1_dbi_si_dry_mask_density_near_met_si_fire.csv
 
+Most up to datae data: 
+* External_Drive:\cdu\data\latest_biomass_data\20240402\dp1_dbi_si_dry_mask_density_near_met_si_fire.csv
 
-slats and tern: "U:\biomass\collated_agb\20231103\slats_tern_biomass.csv"
+Previous data:
+slats only: 
+* "U:\biomass\agb\20231102\slats_tern_biomass.csv"
 
-
-
-
+slats and tern: 
+* "U:\biomass\collated_agb\20231103\slats_tern_biomass.csv"
 
 
 QLD silo data
