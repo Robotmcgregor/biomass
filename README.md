@@ -242,9 +242,10 @@ rerunning:
 * max_temp - final data
 
 ## Biomass data errors:
-| Site | Issue | Solution | Completed | 
+| Site | Issue | Solution | Completed | Dbl check |
 |:-:|:-:|:-:|:-:|
-|buf01|Incorrect date 2021 → 2012rerun all zonal stats SILO and Mosaic and 106_069|Done|
+|buf01|Incorrect date 2021 → 2012rerun all zonal stats SILO and Mosaic and 106_069|Done| Report |
+site11| Incorrect lat long→ 2012rerun all zonal stats SILO and Mosaic and tile|Running | Report |
 
 
 ## Zonal stats code names
