@@ -161,7 +161,9 @@ Extract density and height classes or classifications zonal statistics PGB-BAS21
 Collate zonal statistics outputs into a singe data frame (i.e. fire masked data no fire masked data, height density and meteorological data) PGB-BAS21: biomass/biomass_collation/code/step1_1_initiate_biomass_zonal_stats_collation_pipeline.py
 
 ## ISSUES
-biomass 1 too many.... check calcs with original data
+dp1_dbi_si_dry_mask_density_near_met_si_fire
+* auv07.2012 missing b1_wfp_dry and b1_ccw_dry
+* b2_dp1fm_dry_min abount 21 with missing minimum values - try converting to 0
 
 <img width="346" alt="image" src="https://github.com/Robotmcgregor/biomass/assets/35555135/cf1b7261-a64b-4660-90d3-4bf9b21473fc">
 
