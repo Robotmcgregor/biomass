@@ -341,3 +341,20 @@ Met zonal stats per site: need to be redone.
 ml: outputs are corrupt.
 
 ml_data_dir: corrupt
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+## Composite
+Looks for:
+* h99, hmcm, hsdm and hcvm from height
+* ccw, fdc, n17, nvc, wdc and wfp from density
+* dbi and dbi mask from annual
+* dbi and dbi mask from dry season
+* dp1 and dp1 mask from annual
+* dp1 and dp1 mask from dry season
+* fire scar
+
+Minimum files needed for composite is 11
+  
+
