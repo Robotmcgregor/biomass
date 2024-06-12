@@ -27,7 +27,7 @@
 #### SLATS
 
 NTG system:
-Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb](http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb)
+Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v7.ipynb](http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v7.ipynb))
 
 Lenovo location: 
 Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_field_data_clean_v5.ipynb](http://localhost:8888/notebooks/projects/cdu/biomass/nb/field_data/biomass_field_data_clean_v6.ipynb)
@@ -43,8 +43,8 @@ This notebook functions on:
 
 #### TERN
 
-Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v2.ipynb](
-http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v2.ipynb)
+Local machine: [http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v7.ipynb](
+http://localhost:8888/notebooks/ntg_repo/carbon/biomass/nb/field_data/biomass_proportion_tern_field_data_clean_v7.ipynb)
 
 This notebook functions on:
 
