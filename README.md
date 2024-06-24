@@ -73,8 +73,8 @@ This notebook functions on:
 ### QLD silo data
 Producing tiff files from NC files
 
-Conda envronment: C:\Users\rmcgr.conda\envs\nc_data
-http://localhost:8890/notebooks/tern/code/nc_files/nc_to_tiff/nc_to_tif_working_v3.ipynb
+Conda envronment: C:\Users\rmcgr.conda\envs\nc_to_tiff2
+[http://localhost:8890/notebooks/tern/code/nc_files/nc_to_tiff/nc_to_tif_working_v3.ipynb](http://localhost:8890/notebooks/code/tern/code/nc_files/nc_to_tiff/nc_to_tif_working_v3.ipynb)
 
 ---------------------------------------------------------------------------------------------
 
