@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="biomass_zonal" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="biomass_zonal" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="tf_grid2.13" project-jdk-type="Python SDK" />
 </project>
